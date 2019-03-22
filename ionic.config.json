@@ -1,5 +1,7 @@
 {
   "name": "gugul",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
